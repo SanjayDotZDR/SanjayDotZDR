@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a third year Computer Science student at Brock University.</p>
+<p align="left">I am a fourth year Computer Science student at Brock University.</p>
 
 ###
 
